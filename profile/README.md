@@ -13,4 +13,5 @@ The goal of the MOS-Rust project is to recreate the functionality of MOS in a co
 For more information or to get in touch with the MOS-Rust team, please send us an email at contact@svc.moe
 
 
-* This project is not endorsed by the Rust Foundation
+
+*This project is not endorsed by the Rust Foundation
